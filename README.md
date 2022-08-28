@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Ahmed
-- 👀 I’m interested in learning how to code
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on this dateX project
+- 👀 I’m interested in developing websites
+- 🌱 I’m currently learning to be a frontend developer
 - 📫 How to reach me ...0501145100
 
 <!---

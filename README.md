@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ahmed
-- 👀 I’m interested in developing websites
-- 🌱 I’m currently learning to be a frontend developer
+- 👀 Frontend developer
+- 
 - 📫 How to reach me ...0501145100
 
 <!---
